@@ -1,4 +1,4 @@
-package com.instanect.networkcommon.network;
+package com.instanect.networkcommon;
 
 /**
  * Created by AKS on 3/11/2018.

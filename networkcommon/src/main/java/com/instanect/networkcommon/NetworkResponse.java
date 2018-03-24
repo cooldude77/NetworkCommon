@@ -1,4 +1,4 @@
-package com.instanect.networkcommon.network;
+package com.instanect.networkcommon;
 
 /**
  * Could be a json object, json array or string
