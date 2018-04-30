@@ -5,4 +5,5 @@ package com.instanect.networkcommon;
  */
 
 public interface NetworkInterface {
+    void tryAbort();
 }
